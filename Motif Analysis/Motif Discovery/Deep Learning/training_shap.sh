@@ -6,4 +6,4 @@ source activate tf2_env
 
 cd $PBS_O_WORKDIR
 
-python /rds/general/user/cg2723/home/tfFinal/Deep/pu1.py
+python /rds/general/user/cg2723/home/tfFinal/Deep/training_shap.py
